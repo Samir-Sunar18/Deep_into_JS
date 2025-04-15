@@ -3,11 +3,9 @@
     "tasks": [
       {
         "label": "Run JS File",
-        "type": "shell",
+        "type": "process",
         "command": "node",
-        "args": [
-          "${file}"
-        ],
+        "args": ["${file}"],
         "group": {
           "kind": "build",
           "isDefault": true
