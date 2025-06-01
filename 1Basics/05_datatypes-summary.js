@@ -46,7 +46,8 @@ console.log(id === anotherId);
 
 const bigNumber = 123968542678560978431269
 
-console.log(typeof bigNumber);
+console.log(typeof bigNumber);c
+
 
 
 //Array
@@ -68,6 +69,12 @@ const myfunction = function(){
  
 
 console.log(typeof outsideTemp);
+
+
+const funchere = function(){
+    console.log("Iam here man!");
+    
+}
 
 
 
