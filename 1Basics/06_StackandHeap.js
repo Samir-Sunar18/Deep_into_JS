@@ -83,6 +83,6 @@ console.log(user2.email);
 
 
 // Stack => Copy
-Primitive values 
+// Primitive values 
 
 // Heap => Reference
