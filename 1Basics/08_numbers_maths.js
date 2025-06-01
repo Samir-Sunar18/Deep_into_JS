@@ -1,7 +1,5 @@
 // const score =100;
 // console.log(score);
-
-
 let balance = new Number(100);
 // console.log(balance);
 
