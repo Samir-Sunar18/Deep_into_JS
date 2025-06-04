@@ -18,20 +18,20 @@
 //     console.log(anotherDate.toLocaleString());// gives local time
 //     console.log(anotherDate.toUTCString()); // gives UTC time
 
-//     console.log(anotherDate.toISOString()); // gives ISO format
-//     console.log(anotherDate.toString()); // gives string format
-//     console.log(anotherDate.toTimeString()); // gives time format
-//     console.log(anotherDate.toDateString()); // gives date format
-//     console.log(anotherDate.getTime()); // gives time in milliseconds since 1970
-//     console.log(anotherDate.getFullYear()); // gives year     
-//     console.log(anotherDate.getMonth()); // gives month (0-11)
-//     console.log(anotherDate.getDate()); // gives date (1-31)
-//     console.log(anotherDate.getDay()); // gives day (0-6)
-//     console.log(anotherDate.getHours()); // gives hours (0-23)  
-//     console.log(anotherDate.getMinutes()); // gives minutes (0-59)      
-//     console.log(anotherDate.getSeconds()); // gives seconds (0-59)
-//     console.log(anotherDate.getMilliseconds()); // gives milliseconds (0-999)   
-//     console.log(anotherDate.getTimezoneOffset()); // gives timezone offset in minutes
+    console.log(anotherDate.toISOString()); // gives ISO format
+    console.log(anotherDate.toString()); // gives string format
+    console.log(anotherDate.toTimeString()); // gives time format
+    console.log(anotherDate.toDateString()); // gives date format
+    console.log(anotherDate.getTime()); // gives time in milliseconds since 1970
+    console.log(anotherDate.getFullYear()); // gives year     
+    console.log(anotherDate.getMonth()); // gives month (0-11)
+    console.log(anotherDate.getDate()); // gives date (1-31)
+    console.log(anotherDate.getDay()); // gives day (0-6)
+    console.log(anotherDate.getHours()); // gives hours (0-23)  
+    console.log(anotherDate.getMinutes()); // gives minutes (0-59)      
+    console.log(anotherDate.getSeconds()); // gives seconds (0-59)
+    console.log(anotherDate.getMilliseconds()); // gives milliseconds (0-999)   
+    console.log(anotherDate.getTimezoneOffset()); // gives timezone offset in minutes
 
     
 
@@ -53,3 +53,5 @@
 
 console.log(Date.now());
 console.log(Date().toLocaleString()); // prints the current date and time in local format
+
+3
