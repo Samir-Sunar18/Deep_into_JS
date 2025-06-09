@@ -11,12 +11,6 @@
 // marvel_heroes.push(...dc_heroes);
 // console.log(marvel_heroes);
 
-
-
-
-
-
-
 // console.log(Arrayy.includes(43));
 // console.log(Arrayy.indexOf(43));
 // console.log(Arrayy.indexOf(43));
@@ -28,7 +22,6 @@
 // console.log(typeof newArr);
 // console.log(typeof Arrayy);
 // Arrayy.shift()
-
 
 //slice  , spice 
 
@@ -46,4 +39,13 @@ console.log("B.Slice - " , Arrayy);
 console.log(myN2);
 
 
+console.log(Array.isArray("Sameer"));
+console.log(Array.from("Sameer"));
+console.log(Array.from({name: "Sameer"})); // interesting case for interviews too
 
+
+let score1 = 100
+let score2 = 200
+let score3 = 300
+
+console.log();
