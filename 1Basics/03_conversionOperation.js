@@ -49,8 +49,7 @@ let str2 = " samir"
 // console.log(+true);
 
 // console.log(+"");
-
-
+f
 
 let num1, num2, num3
 
